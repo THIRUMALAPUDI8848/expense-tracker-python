@@ -25,7 +25,7 @@ Includes charts, exports to Excel, and category summaries.
 - Data visualization and automation
 
 ##  Connect With Me
- tvishnU8500gmail.com  
+ tvishnu8500gmail.com  
  [GitHub Profile](https://github.com/THIRUMALAPUDI8848)
 
 ## GitHub Stats
